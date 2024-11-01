@@ -1,5 +1,5 @@
 import React, {useContext} from "react";
-import ItemContext from "../context/ItemContext";
+import ItemContext from "../Context/ItemContext";
 
 const Payment = () => {
 
