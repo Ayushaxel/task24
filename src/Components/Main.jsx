@@ -1,7 +1,8 @@
 import React from "react";
 
 import LeftDiv from "./LeftDiv";
-import RightDiv from "./RightDiv";
+import RightDiv from "./RightDIv";
+
 
 
 const Main = () => {
